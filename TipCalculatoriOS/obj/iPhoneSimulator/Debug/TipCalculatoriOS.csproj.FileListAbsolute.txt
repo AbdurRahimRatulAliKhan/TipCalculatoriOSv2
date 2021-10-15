@@ -1,0 +1,15 @@
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\bin\iPhoneSimulator\Debug\TipCalculatoriOS.exe
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\bin\iPhoneSimulator\Debug\TipCalculatoriOS.pdb
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\TipCalculatoriOS.csproj.CoreCompileInputs.cache
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\TipCalculatoriOS.csproj.CopyComplete
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\TipCalculatoriOS.exe
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\TipCalculatoriOS.pdb
+C:\Users\Ratul Ali\source\repos\TipCalculatoriOS\TipCalculatoriOS\obj\iPhoneSimulator\Debug\TipCalculatoriOS.csproj.AssemblyReference.cache

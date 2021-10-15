@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bbl4lnPYirEbemTE4S51yRH5a6UrhLTbDyN2ILS+CyTmxyq8L/vtRfSE52Oou8x8svl1vZfJ12jWDxDQ0J7D3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ratul Ali\\source\\repos\\TipCalculatoriOS\\TipCalculatoriOS\\TipCalculatoriOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
